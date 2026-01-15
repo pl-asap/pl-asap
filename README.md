@@ -2,6 +2,8 @@
 
 ## Tecnologias que estou aprendendo
 
-**Git
-**Lógica de programação
-**Frameworks
+Git
+
+Lógica de programação
+
+Frameworks
